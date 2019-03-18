@@ -32,6 +32,7 @@ import javafx.stage.Stage;
  */
 public class ForgotPasswordController implements Initializable {
 
+    int dddd;
     @FXML 
     Button signup_button=new Button();
     @FXML
